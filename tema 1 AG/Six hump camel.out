@@ -1,0 +1,80 @@
+With 2 parameters, using Hillclimbing (Best Improvement), in 200 iterations : 
+
+Minimum value of function : -1.02806
+Maximum value of function : 389.927
+64.371 seconds
+
+=============================================================
+
+With 2 parameters, using Hillclimbing (First Improvement), in 200 iterations : 
+
+Minimum value of function : -0.957218
+Maximum value of function : 296.469
+13.197 seconds
+
+=============================================================
+
+With 2 parameters, using Simulated Annealing, in 200 iterations : 
+
+Minimum value of function : 0.0562543
+Maximum value of function : 387.9
+4.77 seconds
+
+=============================================================
+
+With 2 parameters, using Hillclimbing (Best Improvement), in 200 iterations : 
+
+Minimum value of function : -0.990869
+Maximum value of function : 376.335
+1.224 seconds
+
+=============================================================
+
+With 2 parameters, using Hillclimbing (First Improvement), in 200 iterations : 
+
+Minimum value of function : -0.953259
+Maximum value of function : 330.469
+0.433 seconds
+
+=============================================================
+
+With 2 parameters, using Simulated Annealing, in 200 iterations : 
+
+Minimum value of function : -0.961931
+Maximum value of function : 405.9
+0.064 seconds
+
+=============================================================
+
+With 2 parameters, using Hillclimbing (Best Improvement), in 200 iterations : 
+
+Minimum value of function : -1.013
+Maximum value of function : 369.803
+1.302 seconds
+
+=============================================================
+
+With 2 parameters, using Hillclimbing (First Improvement), in 200 iterations : 
+
+Minimum value of function : -0.781366
+Maximum value of function : 398.451
+0.436 seconds
+
+=============================================================
+
+With 2 parameters, using Simulated Annealing, in 200 iterations : 
+
+Minimum value of function : -0.98437
+Maximum value of function : 405.9
+0.065 seconds
+
+=============================================================
+
+With 2 parameters, using Hillclimbing (Best Improvement), in 200 iterations : 
+
+Minimum value of function : -1.02685
+Maximum value of function : 371.483
+1.389 seconds
+
+=============================================================
+

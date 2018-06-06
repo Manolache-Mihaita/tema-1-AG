@@ -1,0 +1,19 @@
+﻿  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  tema1AG.cpp
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(47): warning C4305: '=': truncation from '__int64' to 'double'
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(377): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(493): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(496): warning C4101: 'Bit': unreferenced local variable
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(685): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(688): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(712): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(716): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema 1 ag\tema 1 ag\tema1ag.cpp(721): warning C4018: '<': signed/unsigned mismatch
+  tema 1 AG.vcxproj -> C:\Users\manol\source\repos\tema 1 AG\Debug\tema 1 AG.exe
